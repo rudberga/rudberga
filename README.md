@@ -32,7 +32,7 @@ always want to develop my current skills and learn new skills. I am comfortable 
 
 ![Git](https://camo.githubusercontent.com/0cc6318785fdcacd7a6eabcc3cc7b2f7f63b0e014b14d9c5528dacab16c4c221/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532333330324632462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d463035303332)
 ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![VSCode](https://camo.githubusercontent.com/bf7d164e2e38636f4c7d56a0ea8f643bed6426f4bbec74fee54dac6c4535b4de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652532302d2532333242324233302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d303037414343)
 ![Gitpod](https://img.shields.io/badge/Gitpod%20-%231D1D1D.svg?&style=for-the-badge&logo=Gitpod&logoColor=1AA6E4)
 ![repl.it](https://img.shields.io/badge/repl.it%20-%23101B30.svg?&style=for-the-badge&logo=repl.it&logoColor=93969C)
 
