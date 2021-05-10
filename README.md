@@ -4,6 +4,8 @@ My name is Alex and I am a software developer currently on the lookout for my fi
 Software Development diploma with a 3 year Master Data background. I am very passionate about coding and
 always want to develop my current skills and learn new skills. I am comfortable with both front-end as well as back-end.
 
+Open for remote positions or based in Stockholm or Tokyo (visa is not an issue)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rudberg/)
 
 
