@@ -1,10 +1,10 @@
 # Hello and welcome to my GitHub profile 👋
 
 My name is Alex and I am a software developer currently on the lookout for my first step into the industry. Just finished a Full Stack
-Software Development diploma with a 3 year Master Data background. I am very passionate about coding and
+Software Development diploma having a 3 year Master Data background. I am very passionate about coding and
 always want to develop my current skills and learn new skills. I am comfortable with both front-end as well as back-end.
 
-Open for remote positions or positions based in Stockholm 🇸🇪 or Tokyo 🇯🇵 (visa is not an issue).
+Open for remote positions or positions based in Stockholm 🇸🇪 or Tokyo 🇯🇵 (visa in Japan is not an issue).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rudberg/)
 
