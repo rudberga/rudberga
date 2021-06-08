@@ -30,6 +30,7 @@ Open for remote positions or positions based in Stockholm 🇸🇪 or Tokyo 🇯
 ![Django](https://camo.githubusercontent.com/23a766430089815ddaf27783cbe08dda20ade770b0beddecb06a1a41ca9ad132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2532302d2532333039324532302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d446a616e676f266c6f676f436f6c6f723d464646464646)
 
 #### Currently learning:
+![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=Swift)
 ![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React)
 
 ### Version control | IDE
