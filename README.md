@@ -1,4 +1,4 @@
-# Hello and welcome to my GitHub profile 👋
+# Hello and welcome to my GitHub profile! 👋
 
 My name is Alex and I am a software developer currently on the lookout for my first step into the industry. Just finished a Full Stack
 Software Development diploma having a 3 year Master Data background. I am very passionate about coding and
