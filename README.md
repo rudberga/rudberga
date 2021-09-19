@@ -3,7 +3,7 @@
 My name is Alex and I am a software developer. Just finished a Full Stack Software Development diploma having a 3 year Master Data background. 
 I am very passionate about coding and always want to develop my current skills and learn new skills. 
 
-Open for remote positions or positions based in Stockholm 🇸🇪 or Tokyo 🇯🇵 (visa in Japan is not an issue).
+Open for remote positions or positions based in Sweden 🇸🇪 or Japan 🇯🇵 (visa in Japan is not an issue).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rudberg/)
 
@@ -16,10 +16,8 @@ Open for remote positions or positions based in Stockholm 🇸🇪 or Tokyo 🇯
 ![CSS](https://camo.githubusercontent.com/051dbf3ef28983274b9809ad347f38e8b7b9542f7bb55d46e63e28ece185b948/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d464646464646)
 ![JavaScript](https://camo.githubusercontent.com/374b918b8ae63bb41368cb76373e32cb62f30b7ed7f0ddacb69b301be715db06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d463744463145)
 ![Python](https://camo.githubusercontent.com/e70bef5ceeda3bf1fbefbf23902097fe10dca5fbf46fdbf6c1698dd4487073ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333030344437412e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664663736)
-![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
-
-#### Currently learning:
 ![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=Swift)
+![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
 
 ### Frameworks / Libraries
 
