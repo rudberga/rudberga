@@ -1,9 +1,7 @@
 # Hi and welcome to my GitHub profile! 👋
 
-My name is Alex and I am a software developer. Just finished a Full Stack Software Development diploma having a 3 year Master Data background. 
-I am very passionate about coding and always want to develop my current skills and learn new skills. 
+My name is Alex and I am a software developer. I am very passionate about coding and always want to develop my current skills and learn new skills. 
 
-Open for remote positions or positions based in Sweden 🇸🇪 or Japan 🇯🇵 (visa in Japan is not an issue).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rudberg/)
 
