@@ -1,6 +1,6 @@
 # Hi and welcome to my GitHub profile! 👋
 
-My name is Alex and I am a software developer. I am very passionate about coding and always want to develop my current skills and learn new skills. 
+My name is Alex and I am a software engineer. I am very passionate about coding and always want to develop my current skills and learn new skills. 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rudberg/)
