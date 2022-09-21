@@ -1,6 +1,7 @@
 # Hi and welcome to my GitHub profile! 👋
 
 My name is Alex and I am a software engineer. I am very passionate about coding and always want to develop my current skills and learn new skills. 
+Currently looking for opportunities to work in Tokyo (visa no issue) or remotely starting from January 2023.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rudberg/)
