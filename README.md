@@ -1,6 +1,6 @@
 # Hi and welcome to my GitHub profile! 👋
 
-My name is Alex and I am a software engineer. I love working with software development and always want to develop my current skills and learn new skills. 
+My name is Alex and I am a software engineer. I love working with software development, especially the creative problem-solving part of it, being able to see the result as you are building the final product. I also focus a lot on developing my current skills and learning new ones as well. 
 Currently looking for opportunities to work in Tokyo🎌 (already have visa which allows working) or remotely starting from January 2023.
 
 
