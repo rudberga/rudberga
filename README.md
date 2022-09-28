@@ -58,4 +58,4 @@ Currently looking for opportunities to work in Tokyo🎌 (already have visa whic
 
 
 
-📫 Contact me via my e-mail: rudberg@pm.me
+Contact me via my e-mail: rudberg@pm.me 📫
