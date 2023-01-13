@@ -2,8 +2,6 @@
 
 My name is Alex and I am a software engineer. I love working with software development, especially the creative problem-solving part of it, being able to see the result as you are building the final product. I also focus a lot on developing my current skills and learning new ones as well. 
 
-Currently looking for opportunities to work in Tokyo🎌 (already have visa which allows working) or remotely starting from January 2023.
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rudberg/)
 
