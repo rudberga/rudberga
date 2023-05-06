@@ -1,6 +1,6 @@
 # Hi and welcome to my GitHub profile! 👋
 
-I'm Alex, a Swedish software engineer based in Tokyo with a focus on web development and a keen interest in iOS development. I enjoy building products from start to finish and continuously improving my skills through learning and hands-on experience. Thanks for stopping by my Github!
+I'm Alex, a Swedish software developer based in Tokyo with a focus on web development and a keen interest in iOS development. I enjoy building products and continuously improving my skills through learning and hands-on experience. Thanks for stopping by my Github, feel free to connect either here or on LinkedIn!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rudberg/)
@@ -8,7 +8,7 @@ I'm Alex, a Swedish software engineer based in Tokyo with a focus on web develop
 
 ## Technologies ⚙️
 
-### Currently learning
+### Currently focusing on
 
 ![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=Swift)
 
