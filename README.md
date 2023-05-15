@@ -8,10 +8,6 @@ I'm Alex, a Swedish software developer based in Tokyo with a focus on web develo
 
 ## Technologies ⚙️
 
-### Currently focusing on
-
-![Swift](https://img.shields.io/badge/Swift-gray?style=for-the-badge&logo=Swift)
-
 ### Languages / Markup
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript)
