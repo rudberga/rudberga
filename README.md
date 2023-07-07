@@ -20,6 +20,7 @@ I'm Alex, a Swedish software developer based in Tokyo with a focus on web develo
 ### Frameworks / Libraries
 
 ![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift)
 ![Next.js](https://img.shields.io/badge/Next.js-lightgray?style=for-the-badge&logo=Next.js)
 ![jQuery](https://camo.githubusercontent.com/3c4aaf4df17dea015895003562a12e1fe330e920a29d97ca2638f0f446512199/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792532302d2532333145324533422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a5175657279266c6f676f436f6c6f723d323141434532)
 ![SASS](https://img.shields.io/badge/SASS-gray?style=for-the-badge&logo=sass)
