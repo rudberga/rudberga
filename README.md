@@ -19,8 +19,8 @@ I'm Alex, a Swedish software developer based in Tokyo with a focus on web develo
 ### Frameworks / Libraries
 
 ![React](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift)
 ![Next.js](https://img.shields.io/badge/Next.js-lightgray?style=for-the-badge&logo=Next.js)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift)
 ![SASS](https://img.shields.io/badge/SASS-gray?style=for-the-badge&logo=sass)
 ![Mantine](https://img.shields.io/badge/Mantine-blue?style=for-the-badge&logo=Mantine)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-lightgray?style=for-the-badge&logo=bootstrap)
@@ -38,8 +38,8 @@ I'm Alex, a Swedish software developer based in Tokyo with a focus on web develo
 
 ### Hosting 
 
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel)
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 
 ### Databases
 
