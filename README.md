@@ -1,6 +1,6 @@
 # Hi and welcome to my GitHub profile! 👋
 
-Technical problem-solver focused on troubleshooting, debugging, and improving user experiences. Currently based in Japan, I work on optimizing digital solutions and helping users overcome technical challenges.
+I'm Alex! A technical problem-solver focused on troubleshooting, debugging, and improving user experiences. Currently based in Japan, I work on optimizing digital solutions and helping users overcome technical challenges.
 
 With a background in software development, I’ve worked with TypeScript, React.js, and Next.js, building e-commerce platforms, PWAs, and API-driven applications. Always learning, always iterating—let’s connect!
 
