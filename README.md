@@ -44,6 +44,7 @@ With a background in software development, I’ve worked with TypeScript, React.
 
 ### Databases
 
+![Supabase](https://img.shields.io/badge/supabase-darkgreen?style=for-the-badge&logo=Supabase)
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![Firebase](https://img.shields.io/badge/firebase-darkblue?style=for-the-badge&logo=Firebase)
 
